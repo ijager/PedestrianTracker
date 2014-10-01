@@ -16,8 +16,8 @@ library dependencies
 datasets
 ========
 
-ICCV07 Pedestrian dataset
-DALAL Pedestrian dataset
+-ICCV07 Pedestrian dataset: http://www.vision.ee.ethz.ch/datasets_extra/iccv07-data.tar.gz
+-DALAL Pedestrian dataset 
 
 Screenshots
 ===========
